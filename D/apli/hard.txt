@@ -1,0 +1,4 @@
+"El HARDWARE est  constituido por los elementos f¡sicos del ordenador.
+Consta esencialmente de componentes electr¢nicos que proporcionan el
+soporte necesario para la interpretaci¢n y ejecuci¢n de las operaciones
+elementales que realiza el ordenador"
